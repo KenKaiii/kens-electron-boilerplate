@@ -13,7 +13,7 @@ function App() {
 
   return (
     <div className="app">
-      <h1>Electron Boilerplate</h1>
+      <h1>Kens Electron Boilerplate</h1>
       <p className="subtitle">Ready to build something amazing</p>
 
       <div className="info-grid">

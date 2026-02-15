@@ -1,5 +1,5 @@
-appId: com.electron.boilerplate
-productName: Electron Boilerplate
+appId: com.kenkai.electron-boilerplate
+productName: Kens Electron Boilerplate
 directories:
   output: release
 files:

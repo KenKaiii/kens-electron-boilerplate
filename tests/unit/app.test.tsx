@@ -9,7 +9,7 @@ describe('App', () => {
   });
 
   it('renders the app title', () => {
-    expect(screen.getByText('Electron Boilerplate')).toBeInTheDocument();
+    expect(screen.getByText('Kens Electron Boilerplate')).toBeInTheDocument();
   });
 
   it('renders the subtitle', () => {
